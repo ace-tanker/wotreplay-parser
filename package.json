@@ -1,0 +1,19 @@
+{
+  "name": "wotreplay-parser",
+  "version": "0.0.0",
+  "description": "WoT Replay parser.",
+  "main": "index.mjs",
+  "types": "index.d.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrien Simonnet",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/pako": "2.0.3"
+  },
+  "dependencies": {
+    "egoroof-blowfish": "^4.0.1",
+    "pako": "2.1.0"
+  }
+}
